@@ -1,4 +1,4 @@
-from Flask import Flask, jsonify, request
+from flask import Flask, jsonify, request
 import face_recognitionImpl as frImpl
 import os
 
