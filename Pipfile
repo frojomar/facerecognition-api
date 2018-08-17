@@ -1,0 +1,5 @@
+[requires]
+Flask
+opencv-python
+Pillow
+numpy
