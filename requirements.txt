@@ -2,3 +2,4 @@ Flask
 opencv-python
 Pillow
 numpy
+dlib
